@@ -6,7 +6,7 @@
     { "tipo": "lanzaguisantes", "fila": 3, "columna": 2 }
   ],
   "zombies": [
-    { "tipo": "zombi_normal", "fila": 3, "delay": 1.5 },
+    { "tipo": "zombi_normal", "fila": 4, "delay": 1.5 },
     { "tipo": "zombi_cono", "fila": 2, "delay": 3.0 }
   ]
 }
