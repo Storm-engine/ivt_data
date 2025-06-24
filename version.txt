@@ -1,9 +1,35 @@
 {
-  "version": "v1.2.0",
+  "version": "1.2.0",
   "patch_notes": [
     "✨ Nuevo sistema de atracción de soles con AnimatedSprite2D.",
     "🐛 Corregido un bug que impedía recolectar soles si la animación estaba en loop.",
     "🧠 Se optimizó el filtrado de objetos en collectable para mejorar el rendimiento.",
-    "🎵 Agregado nuevo efecto de sonido para recolección de soles."
+    "🎵 Agregado nuevo efecto de sonido para recolección de soles.",
+    "🌻 Sunflower ahora produce soles con una cadencia más equilibrada.",
+    "🧟‍♂️ El zombie cono tiene más vida pero es más lento.",
+    "🛠️ Mejoras en la sincronización del sonido al disparar proyectiles.",
+    "🧩 Agregada compatibilidad con skins personalizadas para unidades.",
+    "🔁 El sistema de loop de animaciones ahora usa AnimatedSprite2D.",
+    "⚙️ Refactorizado el componente de movimiento para evitar errores al cambiar dirección.",
+    "🌒 Se agregó una transición visual al iniciar modo eclipse.",
+    "📦 Nuevo sistema de bundles de niveles para facilitar la carga.",
+    "📜 Se muestra ahora el nombre del jugador rival en modo versus.",
+    "🔊 Ajustado el volumen global para efectos por defecto.",
+    "💬 Agregadas frases graciosas al intentar banear girasoles.",
+    "📁 Limpieza de assets no usados para reducir tamaño del juego.",
+    "🧃 Nuevo efecto visual al recoger soles acumulados.",
+    "💾 Mejor guardado de la configuración del usuario.",
+    "🌈 Arreglo de bug visual en plantas con animaciones múltiples.",
+    "🎯 Aumentada precisión de colisiones para proyectiles lobbed.",
+    "🧲 Rediseño interno del sistema de targeting para menos lag.",
+    "🔥 Se corrigió un cuelgue raro al destruir muchas unidades a la vez.",
+    "💥 Nuevo efecto de explosión para jalapeños.",
+    "📱 Preparado el juego para soporte táctil experimental.",
+    "🌍 Soporte parcial para localización al inglés.",
+    "🎮 Añadida opción para rebobinar niveles en modo práctica.",
+    "🧰 Nueva herramienta de depuración para ver los nodos activos.",
+    "🌐 Mejora en la detección de partidas LAN.",
+    "🎁 Se ocultaron spoilers en el almanaque para unidades no desbloqueadas.",
+    "🧠 Mejorado comportamiento de los zombis en esquinas."
   ]
 }
