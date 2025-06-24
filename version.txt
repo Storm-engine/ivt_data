@@ -1,1 +1,9 @@
-test2
+{
+  "version": "v1.2.0",
+  "patch_notes": [
+    "✨ Nuevo sistema de atracción de soles con AnimatedSprite2D.",
+    "🐛 Corregido un bug que impedía recolectar soles si la animación estaba en loop.",
+    "🧠 Se optimizó el filtrado de objetos en collectable para mejorar el rendimiento.",
+    "🎵 Agregado nuevo efecto de sonido para recolección de soles."
+  ]
+}
