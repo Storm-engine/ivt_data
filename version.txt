@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "v0.2",
   "patch_notes": [
     "🌱 Added 8 new plants and 6 new zombies.",
     "📖 The Almanac is now available!",
