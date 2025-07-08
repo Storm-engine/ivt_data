@@ -1,5 +1,5 @@
 {
-  "Version": "0.2",
+  "version": "0.2",
   "patch_notes": [
     "[center]{ADDITIONS:}[/center]",
     "Added 8 new plants and 6 new zombies.",
