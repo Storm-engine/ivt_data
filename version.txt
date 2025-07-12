@@ -1,5 +1,5 @@
 {
-  "version": "0.2",
+  "version": "0.2h",
   "patch_notes": [
     "[center][b][color=#4C8045][font_size=28]🌱 ADDITIONS[/font_size][/color][/b][/center]",
     "[color=#333333]• 🧪 Added 8 new plants and 6 new zombies.[/color]",
