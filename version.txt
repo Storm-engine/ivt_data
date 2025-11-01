@@ -1,4 +1,4 @@
-({
+{
   "version": "0.3.1",
   "patch_notes": [
     "[center][b][color=#4C8045][font_size=28]ADDITIONS[/font_size][/color][/b][/center]",
@@ -71,4 +71,4 @@
     "[color=#333333]• Fixed not being able to update a level with new stuff.[/color]",
     "[color=#333333]• Fixed being able to see the other side's cursor, sun/brains falling from the sky and the sun/brains counter.[/color]"
   ]
-})
+}
