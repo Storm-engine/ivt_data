@@ -76,10 +76,6 @@
     "",
     "[center][b][color=#B18E28][font_size=28]BUG FIXES[/font_size][/color][/b][/center]",
     "[color=#333333]• Fixed Parrot being unusable, staying frozen in place once deployed.[/color]",
-    "[color=#333333]• Fixed Gargantuar being able to throw Imps into other lanes instead of his own.[/color]",
-    "",
-    "[center][b][color=#4C8045][font_size=28]ADDITIONAL NOTES[/font_size][/color][/b][/center]",
-    "[color=#333333]• General stability and small optimizations for smoother gameplay.[/color]",
-    "[color=#333333]• Minor internal adjustments in preparation for upcoming features.[/color]"
+    "[color=#333333]• Fixed Gargantuar being able to throw Imps into other lanes instead of his own.[/color]"
   ]
 }
