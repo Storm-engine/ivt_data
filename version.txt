@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "patch_notes": [
     "[center][b][color=#4C8045][font_size=28]ADDITIONS[/font_size][/color][/b][/center]",
     "[color=#333333]• Added 9 new plants and 6 new zombies.[/color]",
@@ -68,6 +68,18 @@
     "[color=#333333]• Fixed Sun/Brains meta not working properly.[/color]",
     "[color=#333333]• Fixed the timer not starting.[/color]",
     "[color=#333333]• Fixed not being able to update a level with new stuff.[/color]",
-    "[color=#333333]• Fixed being able to see the other side's cursor, sun/brains falling from the sky and the sun/brains counter.[/color]"
+    "[color=#333333]• Fixed being able to see the other side's cursor, sun/brains falling from the sky and the sun/brains counter.[/color]",
+    "",
+    "[center][b][color=#B18E28][font_size=28]PATCH 0.3.2[/font_size][/color][/b][/center]",
+    "",
+    "[color=#333333]This update focuses on fixing a few critical gameplay bugs introduced in version 0.3.1.[/color]",
+    "",
+    "[center][b][color=#B18E28][font_size=28]BUG FIXES[/font_size][/color][/b][/center]",
+    "[color=#333333]• Fixed Parrot being unusable, staying frozen in place once deployed.[/color]",
+    "[color=#333333]• Fixed Gargantuar being able to throw Imps into other lanes instead of his own.[/color]",
+    "",
+    "[center][b][color=#4C8045][font_size=28]ADDITIONAL NOTES[/font_size][/color][/b][/center]",
+    "[color=#333333]• General stability and small optimizations for smoother gameplay.[/color]",
+    "[color=#333333]• Minor internal adjustments in preparation for upcoming features.[/color]"
   ]
 }
