@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "patch_notes": [
     "[center][b][color=#4C8045][font_size=28]ADDITIONS[/font_size][/color][/b][/center]",
     "[color=#333333]• Added 9 new plants and 6 new zombies.[/color]",
