@@ -1,5 +1,5 @@
 {
-  "version": "0.4.x",
+  "version": "0.4.1",
   "patch_notes": [
     "[center][b][color=#B18E28][font_size=28]PATCH 0.4.1[/font_size][/color][/b][/center]",
     "",
