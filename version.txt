@@ -15,7 +15,7 @@
     "[color=#333333]• Squash (Damage: 300 -> 425) (Cooldown: 20s -> 22s).[/color]",
     "[color=#333333]• Pea Pod (Cooldown: 5s -> 6.5s).[/color]",
     "[color=#333333]• Melon-pult (Cost: 250 -> 275).[/color]",
-    "[color=#333333]• Winter Melon (Splash Damage: 15 -> 25) (Cost: 400 -> 350).[/color]",
+    "[color=#333333]• Winter Melon (Cost: 400 -> 350).[/color]",
     "[color=#333333]• Jalapeno (Cooldown: 30s -> 40s).[/color]",
     "[color=#333333]• Torchwood (Health: 900 -> 1500).[/color]",
     "[color=#333333]• Chilli Bean (Damage: Infinite -> 250).[/color]",
