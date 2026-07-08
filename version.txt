@@ -66,6 +66,7 @@
     "[color=#333333]• Added wave names for easier organization and navigation.[/color]",
     "[color=#333333]• Preview plants and zombies for the selected wave directly on the lawn.[/color]",
     "[color=#333333]• Added confirmation text when placing a unit onto itself.[/color]",
-    "[color=#333333]• Added warning when trying to place a unit without selecting a wave.[/color]"
+    "[color=#333333]• Added warning when trying to place a unit without selecting a wave.[/color]",
+	"Good bay guys, this will be probably thelast versión."
   ]
 }
