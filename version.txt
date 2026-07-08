@@ -1,6 +1,6 @@
 {
   "version": "0.5.11",
-"league_mmr": 60,
+"league_mmr": 50,
   "patch_notes": [
     "[center][b][color=#B18E28][font_size=28]PATCH 0.5.1[/font_size][/color][/b][/center]",
     "",
